@@ -1,2 +1,2 @@
-include ':app', ':common',':baselib'
+include ':app', ':common',':baselib', ':home'
 project(':baselib').projectDir =new File("TestBase/baselib")
